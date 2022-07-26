@@ -1,4 +1,4 @@
-from trainer_gana import *
+from trainer import *
 from params import *
 from data_loader import *
 import json
